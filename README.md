@@ -14,8 +14,7 @@ I specialize in crafting robust and efficient web applications that captivate us
   <a href="https://fb.com/syeda.rimsha.chishti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syeda rimsha chishti" height="30" width="40" /></a>
   <a href="https://instagram.com/syedarimshachishti_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedarimshachishti_" height="30" width="40" /></a>
 </p>
----
-<br><br>
+
 ### Languages and Tools:
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
