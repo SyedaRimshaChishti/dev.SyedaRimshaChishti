@@ -1,53 +1,83 @@
-# Syeda — PHP Developer 💻
-
-<div style="position: relative !important; text-align: center; color: white;">
-    <img src="https://images.pexels.com/photos/28037399/pexels-photo-28037399/free-photo-of-view-of-milky-way-galaxy-on-starry-night-sky.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Header" style="width: 100%; height: 300px; object-fit: cover;">
-    <div style="position: absolute !important; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; background-color: rgba(0, 0, 0, 0.5);">
-        <h1 style="font-size: 2.5rem; color: white;">Syeda - PHP Developer</h1>
+<!-- Header Section -->
+<header>
+    <div class="profile-header">
+        <h1>Syeda Rimsha Chishti</h1>
+        <p>Web Developer & UI/UX Enthusiast</p>
     </div>
-</div>
-Hello there! 👋  
-I'm **Syeda**, a PHP Developer passionate about creating dynamic and efficient websites. I specialize in building scalable and optimized back-end systems while focusing on clean and maintainable code. Let's connect and build something amazing!
+</header>
 
----
+<!-- Introduction -->
+<section class="introduction">
+    <h2>Hello People <span class="wave-icon">👋</span></h2>
+    <p style="font-family: 'Quicksand',sans-serif;">
+        <br>
+        I am a <strong>PHP Developer with a flair for creativity!</strong> My expertise lies in crafting robust and efficient web applications that captivate users at every turn. With a strong command of PHP and the Laravel framework, I excel at building smooth, dynamic websites that provide outstanding user experiences. Driven by a passion for innovative design and cutting-edge technology, I strive to create visually appealing interfaces that elevate the art of web development in every project I undertake.
+    </p>
+</section>
 
-## 👩‍💻 About Me
-- 💼 PHP Developer with experience in **Laravel**, **MySQL**, and **JavaScript**
-- 🌐 Skilled in **building dynamic websites** and **e-commerce platforms**
-- 🔍 Focused on **clean code**, **best practices**, and delivering high-quality solutions
-- 📚 Constant learner, currently exploring **API development** and **advanced PHP techniques**
 
----
+<hr class="divider"> <!-- Horizontal Line -->
 
-## 🛠️ Languages & Tools
+<!-- Skills Section -->
+<section class="skills-section">
+    <h2>Skills</h2>
+    
+    <!-- Web Development Skills -->
+    <div class="skills">
+        <div class="skill-category">
+            <h3>Web Development</h3>
+            <span class="skill-badge" style="background-color: #005eff;"><i class="fab fa-php"></i> PHP</span>
+            <span class="skill-badge" style="background-color: #ff4b00;"><i class="fas fa-code"></i> Laravel</span>
+            <span class="skill-badge" style="background-color: #ff5700;"><i class="fab fa-html5"></i> HTML5</span>
+            <span class="skill-badge" style="background-color: #264de4;"><i class="fab fa-css3-alt"></i> CSS3</span>
+            <span class="skill-badge" style="background-color: #f7df1e; color: black;"><i class="fab fa-js"></i> ECMAScript</span>
+            <span class="skill-badge" style="background-color: #563d7c;"><i class="fab fa-bootstrap"></i> Bootstrap</span>
+        </div>
+    </div>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    <hr class="divider"> <!-- Horizontal Line -->
 
----
+    <!-- UI/UX Skills -->
+    <div class="skills">
+        <div class="skill-category">
+            <h3>UI/UX Design</h3>
+            <span class="skill-badge" style="background-color: #f24e1e;"><i class="fas fa-drafting-compass"></i> Figma</span>
+            <span class="skill-badge" style="background-color: #ff61f6;"><i class="fas fa-pencil-alt"></i> Adobe XD</span>
+            <span class="skill-badge" style="background-color: #0085ff;"><i class="fas fa-pencil-ruler"></i> UI/UX Design</span>
+        </div>
+    </div>
 
-## 🌟 Featured Projects
+    <hr class="divider"> <!-- Horizontal Line -->
 
-### 🛒 [E-Commerce Website](https://your-ecommerce-link.com)
-A complete online store developed using **PHP** and **MySQL** with features like cart, payment integration, and user authentication.
+    <!-- SEO Skills -->
+    <div class="skills">
+        <div class="skill-category">
+            <h3>SEO</h3>
+            <span class="skill-badge" style="background-color: #00b140;"><i class="fas fa-search"></i> Search Engine Optimization (SEO)</span>
+        </div>
+    </div>
 
-### 📚 [Online Library System](https://your-library-system-link.com)
-A book library management system with search, book listings, and user management functionalities.
+    <hr class="divider"> <!-- Horizontal Line -->
 
----
+    <!-- IDEs Section -->
+    <div class="skills">
+        <div class="skill-category">
+            <h3>IDEs</h3>
+            <span class="skill-badge" style="background-color: #0078d7;"><i class="fas fa-code"></i> Visual Studio Code</span>
+            <span class="skill-badge" style="background-color: #3ddc84;"><i class="fas fa-mobile-alt"></i> Android Studio</span>
+        </div>
+    </div>
 
-## 📫 Let's Connect!
+    <hr class="divider"> <!-- Horizontal Line -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)
-
----
-
-## ⚡ Fun Fact
-Coding is my superpower! I can debug like Sherlock Holmes 🕵️‍♀️ and code like Tony Stark 🤖!
+    <!-- OS Section -->
+    <div class="skills">
+        <div class="skill-category">
+            <h3>Operating Systems</h3>
+            <span class="skill-badge" style="background-color: #ff7f50;"><i class="fab fa-linux"></i> Linux</span>
+            <span class="skill-badge" style="background-color: #dd4814;"><i class="fab fa-ubuntu"></i> Ubuntu</span>
+            <span class="skill-badge" style="background-color: #0078d7;"><i class="fab fa-windows"></i> Windows</span>
+            <span class="skill-badge" style="background-color: #3ddc84;"><i class="fab fa-android"></i> Android</span>
+        </div>
+    </div>
+</section>
