@@ -1,48 +1,49 @@
-# Rohaan Abdul Rauf
+# Syeda — PHP Developer 💻
 
-## 👋 Hello People!
+![Header](https://yourheaderimageurl.com)
 
-### I am a **Flutter Developer** extraordinaire! 🦸‍♂️  
-I bring to life visually stunning, ultra-responsive mobile applications that captivate users. With a deep understanding of the Flutter framework, I create seamless cross-platform apps. 🌟
-
----
-
-## 🛠️ **Skills**
-
-### **Programming Languages**
-- 🟡 Dart
-- 🟢 Java
-- 🔵 Python
-- 🟣 JavaScript
-
-### **Development Skills**
-- 🖥️ Flutter
-- 🌐 HTML5, CSS3, Bootstrap
-
-### **Add-on Skills**
-- 🔗 Git, GitHub
-- ☁️ Firebase
-
-### **Designing Tools**
-- 🎨 Figma
-- 🖌️ Adobe XD
-
-### **IDE & OS**
-- 💻 Visual Studio Code
-- 📱 Android Studio
-- 🐧 Linux, Ubuntu
+Hello there! 👋  
+I'm **Syeda**, a PHP Developer passionate about creating dynamic and efficient websites. I specialize in building scalable and optimized back-end systems while focusing on clean and maintainable code. Let's connect and build something amazing!
 
 ---
 
-## 🔥 **About Me**
-
-- **Name**: Rohaan Shaikh  
-- **Titles**: Technical Enthusiast | Flutter Developer | Open-Source Contributor  
-- **Contact Me**: You can reach me through my GitHub profile!
-
-### Fun fact about me:
-I enjoy creating cross-platform mobile applications that push the boundaries of UX/UI. Check out my repositories below to see my work in action!
+## 👩‍💻 About Me
+- 💼 PHP Developer with experience in **Laravel**, **MySQL**, and **JavaScript**
+- 🌐 Skilled in **building dynamic websites** and **e-commerce platforms**
+- 🔍 Focused on **clean code**, **best practices**, and delivering high-quality solutions
+- 📚 Constant learner, currently exploring **API development** and **advanced PHP techniques**
 
 ---
 
-Thanks for stopping by! 😊
+## 🛠️ Languages & Tools
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🛒 [E-Commerce Website](https://your-ecommerce-link.com)
+A complete online store developed using **PHP** and **MySQL** with features like cart, payment integration, and user authentication.
+
+### 📚 [Online Library System](https://your-library-system-link.com)
+A book library management system with search, book listings, and user management functionalities.
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://yourportfolio.com)
+
+---
+
+## ⚡ Fun Fact
+Coding is my superpower! I can debug like Sherlock Holmes 🕵️‍♀️ and code like Tony Stark 🤖!
