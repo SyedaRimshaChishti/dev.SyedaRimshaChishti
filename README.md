@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Syeda Rimsha Chishti</h1>
+  <h1 align="center">Hi 👋, I'm Syeda Rimsha Chishti</h1>
 <h3 align="center">I am a PHP Developer with a flair for creativity! My expertise lies in crafting robust and efficient web applications that captivate users at every turn. With a strong command of PHP and the Laravel framework, I excel at building smooth, dynamic websites that provide outstanding user experiences. Driven by a passion for innovative design and cutting-edge technology, I strive to create visually appealing interfaces that elevate the art of web development in every project I undertake.</h3>
 
 - 🌱 I’m currently learning **Laravel**
