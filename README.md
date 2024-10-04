@@ -1,8 +1,8 @@
 # Syeda — PHP Developer 💻
 
-<div style="position: relative; text-align: center; color: white;">
+<div style="position: relative !important; text-align: center; color: white;">
     <img src="https://images.pexels.com/photos/28037399/pexels-photo-28037399/free-photo-of-view-of-milky-way-galaxy-on-starry-night-sky.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Header" style="width: 100%; height: 300px; object-fit: cover;">
-    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; background-color: rgba(0, 0, 0, 0.5);">
+    <div style="position: absolute !important; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; background-color: rgba(0, 0, 0, 0.5);">
         <h1 style="font-size: 2.5rem; color: white;">Syeda - PHP Developer</h1>
     </div>
 </div>
