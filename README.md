@@ -1,6 +1,6 @@
 # Syeda — PHP Developer 💻
 
-![Header](https://yourheaderimageurl.com)
+![Header](https://www.pexels.com/photo/view-of-milky-way-galaxy-on-starry-night-sky-28037399/)
 
 Hello there! 👋  
 I'm **Syeda**, a PHP Developer passionate about creating dynamic and efficient websites. I specialize in building scalable and optimized back-end systems while focusing on clean and maintainable code. Let's connect and build something amazing!
