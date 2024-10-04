@@ -1,8 +1,10 @@
 # Syeda — PHP Developer 💻
 
 <div style="position: relative; text-align: center; color: white;">
-    <img src="https://images.pexels.com/photos/28037399/pexels-photo-28037399/free-photo-of-view-of-milky-way-galaxy-on-starry-night-sky.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Header" style="width: 80%; max-width: 400px; height: 300px; object-fit: cover; margin: 0 auto; display: block;">
-    <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 2.5rem; background-color: rgba(0, 0, 0, 0.5); padding: 10px; width: 100%; text-align: center;">Syeda - PHP Developer</h1>
+    <img src="https://images.pexels.com/photos/28037399/pexels-photo-28037399/free-photo-of-view-of-milky-way-galaxy-on-starry-night-sky.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Header" style="width: 80%; max-width: 400px; height: 300px; object-fit: cover; margin: 0 auto;">
+    <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center;">
+        <h1 style="font-size: 2.5rem; background-color: rgba(0, 0, 0, 0.5); padding: 10px;">Syeda - PHP Developer</h1>
+    </div>
 </div>
 Hello there! 👋  
 I'm **Syeda**, a PHP Developer passionate about creating dynamic and efficient websites. I specialize in building scalable and optimized back-end systems while focusing on clean and maintainable code. Let's connect and build something amazing!
