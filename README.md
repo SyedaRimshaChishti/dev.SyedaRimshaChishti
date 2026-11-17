@@ -28,13 +28,11 @@ criticality, exploit likelihood, reachability, and potential impact.
 Runs Python exercises in isolated Docker containers, classifies errors, and
 guides learners through debugging with progressive hints and reflection prompts.
 
-[Project repository](https://github.com/Sufyan243/Debugger)
 
 ### Smart Exam · Seating Optimization
 Uses graph coloring and greedy allocation to reduce subject conflicts when
 assigning seats across exam halls. Supports CSV imports and PDF seating charts.
 
-[Project repository](https://github.com/Sufyan243/Smart-Examination-Anti-Cheating-Seating-Optimization-System)
 
 ### CipherGuard · Cryptography Simulation
 An academic project demonstrating public-key encryption for email, VPN session
